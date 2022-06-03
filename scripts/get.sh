@@ -1,0 +1,3 @@
+function get {
+    go get ./...
+}
